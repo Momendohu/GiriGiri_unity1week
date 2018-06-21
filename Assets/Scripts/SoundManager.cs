@@ -15,8 +15,11 @@ public class SoundManager : MonoBehaviour {
         if(IsDontDestroy) {
             GameObject.DontDestroyOnLoad(this.gameObject);
         }
+
         EntryMusic();
     }
+
+
 
     //1===============================================================================
     //設定した子オブジェクトの数に応じて音データを登録する

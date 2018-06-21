@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{62C81740-DDA6-66B9-ABFB-4A90FE70897A}</ProjectGuid>
+    <ProjectGuid>{47CDF463-F25B-5B31-34D3-8F1EF37AE031}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -62,10 +62,10 @@
     <Compile Include="Assets\Editor\NCMBMenu.cs" />
     <Compile Include="Assets\Editor\UpdateXcodeProject.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/escar/Documents/GiriGiri_unity1week/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/escar/Desktop/ゲーム制作/Unityプロジェクト/Girigiri_unity1week/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/escar/Documents/GiriGiri_unity1week/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/escar/Desktop/ゲーム制作/Unityプロジェクト/Girigiri_unity1week/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -361,7 +361,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{3E59DED6-462B-751F-7F58-BF0B1AD6A63E}</Project>
+      <Project>{DA39E3E6-B542-484F-DC0A-26C4F9BD29CE}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

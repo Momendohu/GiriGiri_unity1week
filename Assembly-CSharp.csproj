@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{3E59DED6-462B-751F-7F58-BF0B1AD6A63E}</ProjectGuid>
+    <ProjectGuid>{DA39E3E6-B542-484F-DC0A-26C4F9BD29CE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,53 +59,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Sample\SampleSceneManager.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\IScore.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\NcmbYieldableExtensions.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\NumberScore.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\RankingLoader.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\RankingNode.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\RankingSceneManager.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\ScoreOrder.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\ScoreType.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\ScoreTypeSetting.cs" />
-    <Compile Include="Assets\naichilab\unity-simple-ranking\Scripts\TimeScore.cs" />
-    <Compile Include="Assets\NCMB\NCMBManager.cs" />
-    <Compile Include="Assets\NCMB\NCMBSettings.cs" />
-    <Compile Include="Assets\NCMB\Script\CommonConstant.cs" />
-    <Compile Include="Assets\NCMB\Script\ExtensionsClass.cs" />
-    <Compile Include="Assets\NCMB\Script\MimeTypeMap.cs" />
-    <Compile Include="Assets\NCMB\Script\MiniJSON.cs" />
-    <Compile Include="Assets\NCMB\Script\NamespaceDoc.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBACL.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBAddOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBAddUniqueOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBAnalytics.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBCallback.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBClassNameAttribute.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBConnection.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBDebug.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBDeleteOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBException.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBFacebookParameters.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBFieldOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBFile.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBGeoPoint.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBIncrementOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBInstallation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBObject.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBPush.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBQuery.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBRelation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBRelationOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBRemoveOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBRole.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBScript.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBSetOperation.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBTwitterParameters.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBUser.cs" />
-    <Compile Include="Assets\NCMB\Script\NCMBUtility.cs" />
-    <Compile Include="Assets\NCMB\Script\SimpleJSON.cs" />
     <Compile Include="Assets\Scripts\AddGirigiripoint.cs" />
     <Compile Include="Assets\Scripts\EvaluateText.cs" />
     <Compile Include="Assets\Scripts\Girigiripoint.cs" />
@@ -115,10 +68,10 @@
     <Compile Include="Assets\Scripts\Yokusou.cs" />
     <Compile Include="Assets\Scripts\YokusouCreater.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/escar/Documents/GiriGiri_unity1week/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/escar/Desktop/ゲーム制作/Unityプロジェクト/Girigiri_unity1week/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/escar/Documents/GiriGiri_unity1week/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/escar/Desktop/ゲーム制作/Unityプロジェクト/Girigiri_unity1week/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

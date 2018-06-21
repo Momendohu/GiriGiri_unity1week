@@ -182,7 +182,6 @@ public class Manager : MonoBehaviour {
     //=============================================================
     //ゲームオーバー時の演出
     private IEnumerator Gameover () {
-        naichilab.RankingLoader.Instance.SendScoreAndShowRanking(Point);
 
         SMSE.TriggerSE(4);
         yield return new WaitForSeconds(0.1f);
